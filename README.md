@@ -15,6 +15,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 [![Bksgyp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bksgyp&show_icons=true)](https://github.com/bksgyp/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yup6786)](https://solved.ac/yup6786/)
 </div>
 
 <!--
