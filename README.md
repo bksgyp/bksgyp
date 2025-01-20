@@ -1,5 +1,5 @@
 ## About Me
-### Hi! I'm Seungyeop Baek, but you can call me YUP!
+### Hi! I'm Seungyeop Baek.
 - I'm studying Computer Science & Engineering in Inha University, Korea.
 - I'm interested in Robots, System Programming, OS, and Embedded Systems.
 ## Tech Stacks
