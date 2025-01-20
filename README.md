@@ -14,7 +14,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black")
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Bksgyp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bksgyp)](https://github.com/bksgyp/github-readme-stats)
+[![Bksgyp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bksgyp&show_icons=true)](https://github.com/bksgyp/github-readme-stats)
 </div>
 
 <!--
