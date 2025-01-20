@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+- I'm studying Computer Science & Engineering in Inha University, Korea.
+- I'm interested in Robots, System Programming, OS, and Embedded Systems.
+
+## Tech Stacks
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <!--
 **bksgyp/bksgyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
