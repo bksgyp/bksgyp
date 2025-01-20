@@ -2,8 +2,9 @@
 ### Hi! I'm Seungyeop Baek.
 - I'm studying Computer Science & Engineering in Inha University, Korea.
 - I'm interested in Robots, System Programming, OS, and Embedded Systems.
-<br>
+<div>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/bksgyp)
+</div>
 ## Tech Stacks
 <div align=center>
   
