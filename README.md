@@ -3,6 +3,7 @@
 - I'm studying Computer Science & Engineering in Inha University, Korea.
 - I'm interested in Robots, System Programming, OS, and Embedded Systems.
 
+- Contacts:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/bksgyp)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungyeop93@gmail.com)](mailto:seungyeop93@gmail.com)
 
